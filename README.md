@@ -1,7 +1,7 @@
 # Java RMI Distributed Banking System
 ## CSCI 5105 - Homework 5
 Author: Jamison Grudem  
-Email: grude013@umn.edu 
+Email: grude013@umn.edu  
 Using 2 grace days 
 
 ## About The Program
